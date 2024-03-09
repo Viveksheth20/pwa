@@ -1,4 +1,4 @@
-var cacheName = "classtore-v1"; var cacheFiles = ["index.html",   //"products.js",  
+var cacheName = "classtore-v1"; var cacheFiles = ["app.vue",   //"products.js",  
     "images/pg.png",
     "images/png.png",
 ];
